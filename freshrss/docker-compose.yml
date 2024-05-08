@@ -1,0 +1,10 @@
+ADMIN_EMAIL=webmaster@localhost.local
+ADMIN_PASSWORD=freshrss123
+ADMIN_API_PASSWORD=freshrssapi1
+# Published port if running locally
+PUBLISHED_PORT=8080
+# Database credentials (not relevant if using default SQLite database)
+DB_HOST=freshrss-db
+DB_BASE=freshrss
+DB_PASSWORD=freshrss
+DB_USER=freshrss
